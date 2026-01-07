@@ -2,7 +2,7 @@
 **Proyecto de E-commerce de alto rendimiento con gestión dinámica de datos.**
 
 ## 🌐 Demo en Vivo
-[AQUÍ PEGÁ EL LINK QUE TE DIO GITHUB PAGES O VERCEL]
+https://monterojustin.github.io/Lumora/public/
 
 ## 🛠️ Stack Tecnológico
 * **Frontend:** HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+).
